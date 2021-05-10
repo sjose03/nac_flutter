@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lista_cursos/models/roupas_model.dart';
-import 'package:lista_cursos/repository/roupas_repository.dart';
+import 'package:nac_flutter/models/roupas_model.dart';
+import 'package:nac_flutter/repository/roupas_repository.dart';
 
 class RoupasScreen extends StatefulWidget {
   @override

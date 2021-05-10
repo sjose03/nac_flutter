@@ -1,4 +1,4 @@
-import 'package:lista_cursos/models/roupas_model.dart';
+import 'package:nac_flutter/models/roupas_model.dart';
 
 import 'database.dart';
 

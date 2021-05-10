@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:lista_cursos/screens/roupas_detalhes_screen.dart';
-import 'package:lista_cursos/screens/roupas_screen.dart';
+import 'package:nac_flutter/screens/roupas_detalhes_screen.dart';
+import 'package:nac_flutter/screens/roupas_screen.dart';
 
 void main() {
   runApp(MyApp());
